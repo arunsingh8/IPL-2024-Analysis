@@ -10,13 +10,16 @@ Here I started to create a dashboard to analysing the team and players by referr
 3. players performance finding the top players in the team.
 
 # Resources Provided:
-* Dataset required for analysis * Metadata * Survey questions
+* Dataset required for analysis
+* Metadata
+* Survey questions
 
 # Tool Used:
 Power BI
 
 # Important Links:
 Dashboard Link: https://www.novypro.com/project/ipl-2024-analysis
+
 
 # Dashboard Glimpse:
 ![Screenshot 2024-03-21 015847](https://github.com/arunsingh8/IPL-2024-Analysis/assets/112901373/44b40579-e89c-4074-8802-6e7b4afa3b2f)
