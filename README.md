@@ -5,9 +5,9 @@ Project Details: "Sports Basics" is a sports blog company that entered space rec
 Here I started to create a dashboard to analysing the team and players by referring the Primary And Secondary Analysis.
 
 # Keys: 
-1. Team Analysis based on winning, chasing, players performance.
-2. Best 11 which is working on your choosen players.
-3. players performance finding the top players in the team.
+* Team Analysis based on winning, chasing, players performance.
+* Best 11 which is working on your choosen players.
+* players performance finding the top players in the team.
 
 # Resources Provided:
 * Dataset required for analysis
@@ -15,10 +15,10 @@ Here I started to create a dashboard to analysing the team and players by referr
 * Survey questions
 
 # Tool Used:
-Power BI
+* Power BI
 
 # Important Links:
-Dashboard Link: https://www.novypro.com/project/ipl-2024-analysis
+* Dashboard Link:  https://www.novypro.com/project/ipl-2024-analysis
 
 
 # Dashboard Glimpse:
