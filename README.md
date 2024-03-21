@@ -18,7 +18,7 @@ Here I started to create a dashboard to analysing the team and players by referr
 * Power BI
 
 # Important Links:
-* Dashboard Link:  https://www.novypro.com/project/ipl-2024-analysis
+* Dashboard Link:  https://www.novypro.com/project/ipl-2024-analysis-1
 
 
 # Dashboard Glimpse:
