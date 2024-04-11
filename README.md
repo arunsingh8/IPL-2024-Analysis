@@ -18,6 +18,7 @@ Here I started to create a dashboard to analysing the team and players by referr
 * Survey questions
 
 # Tool Used:
+* Excel
 * Power BI
 
 # Important Links:
